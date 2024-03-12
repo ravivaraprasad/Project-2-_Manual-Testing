@@ -1,1 +1,1 @@
-# Project-2-_Manual-Testing
+# orangehrm.com End-To-End Testing
